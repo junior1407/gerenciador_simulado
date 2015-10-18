@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/bd.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/simulado.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/submissao.php" charset="UTF-8" />
   </component>
 </project>
